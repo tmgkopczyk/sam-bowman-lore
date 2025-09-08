@@ -1,1 +1,3 @@
-Sam Bowman, Matthew Parker
+---
+artists: Sam Bowman, Matthew Parker
+---

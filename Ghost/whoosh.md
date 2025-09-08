@@ -1,1 +1,3 @@
-Sam Bowman, GLADDEN
+---
+artists: Sam Bowman, GLADDEN
+---

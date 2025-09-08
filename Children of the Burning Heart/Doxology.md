@@ -1,1 +1,3 @@
-Sam Bowman, Annaclaire
+---
+artists: Sam Bowman, Annaclaire
+---

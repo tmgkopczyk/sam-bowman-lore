@@ -1,1 +1,3 @@
-Sam Bowman
+---
+artists: Sam Bowman
+---

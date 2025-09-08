@@ -1,1 +1,3 @@
-Sam Bowman, Ben Lawrence
+---
+artists: Sam Bowman, Ben Lawrence
+---

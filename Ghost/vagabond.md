@@ -1,1 +1,3 @@
-Sam Bowman, Xander Sallows
+---
+artists: Sam Bowman, Xander Sallows
+---
