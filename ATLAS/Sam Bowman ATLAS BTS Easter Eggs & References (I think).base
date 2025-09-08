@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.folder == "ATLAS"
+    order:
+      - file.name
+      - artists
+      - passage
+      - BTS Reference
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize: {}
+  - type: cards
+    name: Cards view
+    imageAspectRatio: 0.6
+    cardSize: 200
