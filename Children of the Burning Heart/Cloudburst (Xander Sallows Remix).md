@@ -1,3 +1,6 @@
 ---
-artists: Sam Bowman, JSteph, Xander Sallows
+artists:
+  - Sam Bowman
+  - JSteph
+  - Xander Sallows
 ---
